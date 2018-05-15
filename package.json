@@ -1,6 +1,6 @@
 {
   "name": "@rojo2/linear-interpolation",
-  "version": "1.0.0",
+  "version": "1.0.",
   "main": "dist/linear-interpolation.cjs.js",
   "module": "dist/linear-interpolation.esm.js",
   "browser": "dist/linear-interpolation.udm.js",
