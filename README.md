@@ -1,4 +1,5 @@
 # `@rojo2/linear-interpolation`
+
 ![Travis CI](https://travis-ci.org/rojo2/linear-interpolation.svg?branch=master)
 
 ```javascript
